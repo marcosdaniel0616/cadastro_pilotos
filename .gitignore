@@ -7,3 +7,5 @@ __Pycache__
 .idea
 
 settings_local.py
+
+cadastro_pilotos/settings_local.py
