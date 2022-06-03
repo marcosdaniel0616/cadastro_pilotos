@@ -5,3 +5,5 @@ __Pycache__
 *.pyc
 
 .idea
+
+settings_local.py
