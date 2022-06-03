@@ -9,3 +9,7 @@ __Pycache__
 settings_local
 
 cadastro_pilotos/settings_local
+
+settings_local.py
+
+cadastro_pilotos/settings_local.py
